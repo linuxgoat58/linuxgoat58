@@ -1,5 +1,5 @@
-- �Hi, I’m @linuxgoat58
-- �Linux and IT is my passion
-- � I’m currently learning Automation, comptiaA+ Networking-Linux-Security
-- � I’m looking to collaborate on any and everything
-- 📫 How to reach me ...kalikali58@protonmail.com
+- Hi, I’m @linuxgoat58
+- Linux and IT is my passion
+-  I’m currently learning Automation, comptiaA+ Networking-Linux-Security
+-  I’m looking to collaborate on any and everything
+- How to reach me ...kalikali58@protonmail.com
